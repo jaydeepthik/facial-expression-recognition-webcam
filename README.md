@@ -14,4 +14,5 @@ trained weights on the model can be downloaded from
 https://drive.google.com/file/d/1192YC8mYKaCbCoACP8hTfr9PCMC3iN30/view?usp=sharing
 
 # The results
-<img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/happy_crp.png" width=150 /> <img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/surprised_crp.png" width=150 /> <img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/neutral_crp.png" width=150 /> <img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/angry_crp.png" width=150 />
+<img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/happy_crp.png" width=150 padding=10px /> <img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/surprised_crp.png" width=150 padding=10px /> 
+<img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/neutral_crp.png" width=150 padding=10px /> <img src= "https://github.com/jaydeepthik/facial-expression-recognition-webcam/blob/master/angry_crp.png" width=150 padding=10px />
