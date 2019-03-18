@@ -109,7 +109,7 @@ if __name__=="__main__":
     model = generate_model(0.01)
     with tf.device("/gpu:0"):
         history = model.fit(X_train_std, y_train,batch_size=128,epochs=35, validation_data=(X_valid_std, y_valid), shuffle=True)
-    
+        model.save("my_model.h5")
     
     
     
