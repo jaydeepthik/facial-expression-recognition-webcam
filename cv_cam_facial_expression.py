@@ -12,7 +12,7 @@ import cv2
 
 emotion =  ['Anger', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 
-#model = keras.models.load_model("model_35_91_61.h5")
+model = keras.models.load_model("model_35_91_61.h5")
 font = cv2.FONT_HERSHEY_SIMPLEX
 cam = cv2.VideoCapture(0)
 face_cas = cv2.CascadeClassifier('./cascades/haarcascade_frontalface_default.xml')
